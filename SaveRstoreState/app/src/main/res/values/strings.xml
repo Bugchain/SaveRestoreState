@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SaveRstoreState</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="state_in_activity">State in Activity</string>
+    <string name="state_in_fragment">State in Fragment</string>
+
+
+</resources>
